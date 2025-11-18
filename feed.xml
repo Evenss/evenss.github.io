@@ -4,7 +4,7 @@
   <id>https://evenss.github.io/</id>
   <title>Evenss AI Blog</title>
   <subtitle>A technical blog about AI, LLMs, and machine learning engineering.</subtitle>
-  <updated>2025-11-18T16:46:10+08:00</updated>
+  <updated>2025-11-18T16:50:05+08:00</updated>
   <author>
     <name>oneLineEven</name>
     <uri>https://evenss.github.io/</uri>
@@ -37,6 +37,28 @@
   
 
   <summary>Introduction to Memory Agent Architecture   (From The Rise and Potential of Large Language Model Based Agents: A Survey):     Perception: Information input.   Brain-Decision Making: Autonomous decision-making and planning, executing more complex tasks.   Brain-Memory &amp;amp; Knowledge: Memory capability, storing Agent’s knowledge and skills.   Action: Interacting with the external world, enabling...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Ai记忆</title>
+    <link href="https://evenss.github.io/posts/AI%E8%AE%B0%E5%BF%86/" rel="alternate" type="text/html" title="Ai记忆" />
+    <published>2025-11-18T00:00:00+08:00</published>
+  
+    <updated>2025-11-18T00:00:00+08:00</updated>
+  
+    <id>https://evenss.github.io/posts/AI%E8%AE%B0%E5%BF%86/</id>
+    <content type="text/html" src="https://evenss.github.io/posts/AI%E8%AE%B0%E5%BF%86/" />
+    <author>
+      <name>oneLineEven</name>
+    </author>
+
+  
+    
+  
+
+  <summary>Memory介绍 Agent架构   （来自 The Rise and Potential of Large Language Model Based Agents: A Survey）：     感知能力（Perception）：信息输入。   决策能力（Brain-Decision Making）：自主决策和规划，执行更复杂的任务。   记忆能力（Brain-Memory &amp;amp; Knowledge）：具备记忆能力，存储 Agent 的知识和技能。   行动能力（Action）：与外界交互，通过行动与感知让 Agent 能自主完成更多复杂任务。   记忆对Agent的作用         让 Agent 具备持续学习能力                     从过去经历中总结经验以及从错误中学习，加强任务表现。                       让 Agent 能...</summary>
 
   </entry>
 
